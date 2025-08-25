@@ -20,7 +20,7 @@ export default function Home() {
   return (
       <MainWrapper>
         <StyledImage
-            src="http://pf.kakao.com/_Aruexj/110537463"
+            src="https://pf.kakao.com/_Aruexj/110537463"
 
         />
       </MainWrapper>
