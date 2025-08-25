@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "행신침례교회",
+    title: "행신침례교회 | 고양시 덕양구 교회",
     description: "행신교회는 따뜻한 공동체입니다. 예배·모임 안내, 오시는 길, 섬기는 분들을 확인하세요.",
 };
 
@@ -25,8 +25,6 @@ export default function RootLayout({
     return (
         <html lang="en">
         <head>
-            <title>행신침례교회 | 고양시 덕양구 교회</title>
-            <meta name="description" content="행신교회는 따뜻한 공동체입니다. 예배·모임 안내, 오시는 길, 섬기는 분들을 확인하세요."/>
             <meta property="og:title" content="행신침례교회"/>
             <meta property="og:description" content="예배·모임 안내, 오시는 길, 따뜻한 교회 공동체"/>
             {/*<meta property="og:image" content="/images/hero.jpg"/>*/}
