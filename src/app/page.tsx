@@ -20,7 +20,7 @@ const MainWrapper = styled.div`
 /* 내용 폭을 넓게 (데스크톱에서 여유) */
 const Container = styled.div`
   width: min(1200px, 96vw);  /* ✅ 가로 여유 */
-  padding: 24px 32px;
+  //padding: 24px 32px;
 `;
 
 /* 이미지는 비율 유지 */
