@@ -34,7 +34,7 @@ export default function Home() {
     return (
         <MainWrapper>
             <Container>
-                <StyledImage src="/example.png" alt="example" />
+                <StyledImage src="/example_v2.png" alt="example" />
                 {/* 여기에 텍스트/컴포넌트들 */}
             </Container>
         </MainWrapper>
