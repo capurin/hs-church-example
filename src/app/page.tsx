@@ -14,12 +14,12 @@ const MainWrapper = styled.div`
 
   display: flex;
   justify-content: center; /* 가운데 정렬 */
-  background: #f0f0f0;
+  //background: #f0f0f0;
 `;
 
 /* 내용 폭을 넓게 (데스크톱에서 여유) */
 const Container = styled.div`
-  width: min(1200px, 96vw);  /* ✅ 가로 여유 */
+  //width: min(1200px, 96vw);  /* ✅ 가로 여유 */
   //padding: 24px 32px;
 `;
 
