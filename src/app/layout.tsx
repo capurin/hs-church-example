@@ -27,6 +27,7 @@ export default function RootLayout({
         <head>
             <meta property="og:title" content="행신침례교회"/>
             <meta property="og:description" content="예배·모임 안내, 오시는 길, 따뜻한 교회 공동체"/>
+            <meta name="naver-site-verification" content="cdd837a909d2689ed3e3f4fe9298638887fe9e75" />
             {/*<meta property="og:image" content="/images/hero.jpg"/>*/}
             {/*<meta property="og:url" content="https://haengsin-church.site"/>*/}
         </head>
